@@ -1,0 +1,19 @@
+EOD Update – Vishnu
+
+Date: 16-Oct-2025
+
+Tasks Completed:
+
+* Created Dockerfile for the application to containerize the setup.
+
+* Built the Docker image successfully from the Dockerfile.
+
+* Tested the container locally to ensure proper functionality.
+
+* Pushed the Docker image to the Docker Hub (or internal registry).
+
+* Verified image availability and pull functionality.
+
+Remarks:
+
+Docker image creation and push completed successfully without errors.

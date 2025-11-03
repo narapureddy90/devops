@@ -1,0 +1,3 @@
+mFqGKbmk3pF3Enn4aof7
+database-1.cbo2mqo42if7.eu-north-1.rds.amazonaws.com
+3306
